@@ -26,3 +26,10 @@ float2 = 25e6
 print(float1)
 print(float2)
 print(31415926e-7)
+
+print(2e400)
+print(-2e400)
+
+print(1 - (-3))
+print(5 / 2)
+print(int(5 / 2))
